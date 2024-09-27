@@ -26,7 +26,6 @@
     font-family: belgan !important;
     color:rgb(20, 250, 300);
     text-shadow: 2px 2px 3px grey;
-    margin left:10px !important;
 }
 
 
@@ -34,8 +33,6 @@
     font-size: 130px; 
     font-family: belgan !important;
     color:rgb(10, 100, 106);
-    margin right:10px !important;
-   
 }
 
 .intro p {
@@ -61,18 +58,18 @@
 
 @media only screen and (max-width: 600px){
     .dev-name-1{
-        font-size: 70px;
+        font-size: 60px;
         font-family: belgan !important;
         color:rgb(12, 3, 46);
-        margin-left: 5vw !important;
+        padding-left: 5vw !important;
     }
     
     
     .dev-name-2{
-        font-size: 70px; 
+        font-size: 60px; 
         font-family: belgan !important;
         color: rgb(12, 3, 46);
-        margin-right: 5vw !important;
+        padding-right: 5vw !important;
     }
     
 }

@@ -26,7 +26,7 @@
     font-family: belgan !important;
     color:rgb(20, 250, 300);
     text-shadow: 2px 2px 3px grey;
-    margin left:10px;
+    margin left:10px !important;
 }
 
 
@@ -34,7 +34,7 @@
     font-size: 130px; 
     font-family: belgan !important;
     color:rgb(10, 100, 106);
-    margin right:10px;
+    margin right:10px !important;
    
 }
 

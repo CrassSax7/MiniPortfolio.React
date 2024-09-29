@@ -16,8 +16,9 @@
 }
 
 @font-face {
-    font-family: 'belgan';
-    src: url(../Belgant\ Aesthetic.otf);
+    font-family: 'belgan' !important;
+    font-family: 'belgan' ;
+    src: url('Belgant Aesthetic.otf') !important;
   }
 
 .d-flex{

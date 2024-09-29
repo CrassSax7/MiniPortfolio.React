@@ -61,7 +61,7 @@
 @media only screen and (max-width: 600px){
     .dev-name-1{
         font-size: 60px;
-        font-family: belgan !important;
+        font-family: 'belgan' !important;
         color:rgb(12, 3, 46);
         padding-left: 5vw !important;
     }
@@ -69,7 +69,7 @@
     
     .dev-name-2{
         font-size: 60px; 
-        font-family: belgan !important;
+        font-family: 'belgan' !important;
         color: rgb(12, 3, 46);
         padding-right: 5vw !important;
     }
@@ -79,7 +79,7 @@
 @media only screen and (max-width: 300px){
     .dev-name-1{
         font-size: 30px;
-        font-family: belgan !important;
+        font-family: 'belgan' !important;
         color:rgb(12, 3, 46);
         padding-left: 20px !important;
         margin-left: 10px !important;

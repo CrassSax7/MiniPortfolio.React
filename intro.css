@@ -1,7 +1,4 @@
-@font-face {
-    font-family: 'belgan' !important;
-    src: url('/Belgant Aesthetic.otf') !important;
-  }
+
 
 .intro{
     align-items: center;
@@ -13,7 +10,10 @@
 
 }
 
-
+@font-face {
+    font-family: 'belgan' !important;
+    src: url('Belgant Aesthetic.otf') !important;
+  }
 
 .d-flex{
     font-family: 'Times New Roman', Times, serif;

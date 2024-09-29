@@ -4,7 +4,7 @@
     justify-content: center;
     background-color: #3ad0bf !important;
     padding-top: 50px !important;
-    background: url('../stylesheets/intro-bg.svg') !important;
+    background-image: url('intro-bg.svg') !important;
     background-size: 100% 100%;
 
 

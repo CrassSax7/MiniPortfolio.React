@@ -2,7 +2,7 @@
 
     align-items: center;
     justify-content: center;
-    background-color: rga(58, 208, 191) !important;
+    background-color: rgb(58, 208, 191) !important;
     padding-top: 50px !important;
     background-image: url('intro-bg.svg') !important;
     background-size: 100% 100%;

@@ -4,8 +4,14 @@
     justify-content: center;
     background-color: #3ad0bf !important;
     padding-top: 50px !important;
-    background-image: url('../stylesheets/intro-bg.svg') !important;
+    background: url('../stylesheets/intro-bg.svg') !important;
     background-size: 100% 100%;
+
+
+/*.bg {
+  background: url('data:image/svg+xml;utf8,<svg ...> ... </svg>');
+}*/
+    
 
 }
 

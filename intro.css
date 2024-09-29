@@ -6,7 +6,6 @@
     padding-top: 50px !important;
     background-image: url('intro-bg.svg') !important;
     background-size: 100% 100%;
-    background-color: rgb(58, 208, 191) !important;
 
 
 /*.bg {
@@ -17,8 +16,8 @@
 }
 
 @font-face {
-    font-family: belgan;
-    src: url(Belgant Aesthetic.otf) !important;
+    font-family: belgan !important;
+    src: url('Belgant Aesthetic.otf') !important;
   }
 
 .d-flex{
